@@ -17,10 +17,10 @@ class Home extends React.Component{
                             margin: '40px 30px',
                         }}  
                     >
-                        <h1 style={{ margin:"0"}}>Hello, Nama Saya</h1>
-                        <h1 style={{color:"#ef4b6c"}}> <b>MICIN</b></h1>
+                        <h1 style={{ margin:"0"}}>Hello! I'am </h1>
+                        <h1 style={{color:"#ef4b6c"}}> <b>Shintya Devi Bachan</b></h1>
                         <h4>"Saya adalah cinicnicnicnicnincincincinicnicnincincin</h4>
-                        <Button>More</Button>
+                        <Button href="Profile">Kenalan?</Button>
                     </Col>
 
                     <Col xs={12}>
