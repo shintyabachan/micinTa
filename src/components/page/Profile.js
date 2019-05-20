@@ -26,11 +26,16 @@ class Profile extends Component {
                  >
                     <Col xs={12}>
                         <Row>
+                            <p/>
+                            <p/>
+                            <p/>
+                            <p/>
                             <img src="images/sally.png" style={{objectFit:"cover",width:"100%"}}/>
                         </Row>
                     </Col>
                     <Col xs={12}>
                         <Row style={{ margin: '16px 16px' }}>
+                            <p/>
                             <Col xs><Title>Shintya Devi Bachan</Title></Col>
                             <List
                                 size="large"
@@ -46,8 +51,6 @@ class Profile extends Component {
                                 )}
                             />
                             <p/>
-                            <Col xs><Title level={4}>Description</Title></Col>
-                            <Col xs>dfjgyerbgnsbcausdwwhjndbcysgywbkjnkdkjs</Col>
                         </Row>
                     </Col>
 

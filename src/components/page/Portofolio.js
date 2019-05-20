@@ -7,6 +7,7 @@ class Portofolio extends Component {
         return (
             <div>
                 <h2>PORTOFOLIO</h2>
+                <h5>Basically, I don't know what should I write here, so </h5>
                 <hr/>
                 <br/>
                 <Row gutter={16} justify="center" type="flex">

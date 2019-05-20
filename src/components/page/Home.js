@@ -17,10 +17,12 @@ class Home extends React.Component{
                             margin: '40px 30px',
                         }}  
                     >
-                        <h1 style={{ margin:"0"}}>Hello! I'am </h1>
+                        <h1 style={{ margin:"0"}}>Hello there! I'am.. </h1>
                         <h1 style={{color:"#ef4b6c"}}> <b>Shintya Devi Bachan</b></h1>
-                        <h4>"Saya adalah cinicnicnicnicnincincincinicnicnincincin</h4>
-                        <Button href="Profile">Kenalan?</Button>
+                        <p/><p/>
+                        <h4>"I'am a 19th years old girl who is studying as second years student in Computer Science and Information System at Gadjah Mada University.
+                            I am a friendly, enthusiastic adn honest person. I’m personally interested in becoming a system analyst"</h4>
+                        <Button href="profile">Kenalan?</Button>
                     </Col>
 
                     <Col xs={12}>
