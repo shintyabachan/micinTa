@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/micinTa/static/css/main.5a9ff18f.chunk.css",
-    "main.js": "/micinTa/static/js/main.c9f19c6b.chunk.js",
-    "main.js.map": "/micinTa/static/js/main.c9f19c6b.chunk.js.map",
+    "main.js": "/micinTa/static/js/main.b36e1e11.chunk.js",
+    "main.js.map": "/micinTa/static/js/main.b36e1e11.chunk.js.map",
     "runtime~main.js": "/micinTa/static/js/runtime~main.f9f9cb49.js",
     "runtime~main.js.map": "/micinTa/static/js/runtime~main.f9f9cb49.js.map",
     "static/css/2.1ad4406c.chunk.css": "/micinTa/static/css/2.1ad4406c.chunk.css",
     "static/js/2.81262243.chunk.js": "/micinTa/static/js/2.81262243.chunk.js",
     "static/js/2.81262243.chunk.js.map": "/micinTa/static/js/2.81262243.chunk.js.map",
     "index.html": "/micinTa/index.html",
-    "precache-manifest.7746209e247a4b4fda2817183c86a421.js": "/micinTa/precache-manifest.7746209e247a4b4fda2817183c86a421.js",
+    "precache-manifest.6d0589f062e8e069f18f6cad02f8489f.js": "/micinTa/precache-manifest.6d0589f062e8e069f18f6cad02f8489f.js",
     "service-worker.js": "/micinTa/service-worker.js",
     "static/css/2.1ad4406c.chunk.css.map": "/micinTa/static/css/2.1ad4406c.chunk.css.map",
     "static/css/main.5a9ff18f.chunk.css.map": "/micinTa/static/css/main.5a9ff18f.chunk.css.map"
