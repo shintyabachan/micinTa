@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a24de24740639ab3cd2da7130f0deb8",
+    "revision": "4e476822927ef72a930bd261750b66b6",
     "url": "/micinTa/index.html"
   },
   {
-    "revision": "999a7471b4dfcfe8e723",
+    "revision": "302a357d1820969e8244",
     "url": "/micinTa/static/css/2.1ad4406c.chunk.css"
   },
   {
-    "revision": "93810d4c9448f50805a9",
+    "revision": "8e8cb03ffa2e1dcccc35",
     "url": "/micinTa/static/css/main.5a9ff18f.chunk.css"
   },
   {
-    "revision": "999a7471b4dfcfe8e723",
-    "url": "/micinTa/static/js/2.81262243.chunk.js"
+    "revision": "302a357d1820969e8244",
+    "url": "/micinTa/static/js/2.e0b94474.chunk.js"
   },
   {
-    "revision": "93810d4c9448f50805a9",
-    "url": "/micinTa/static/js/main.a2b6bfb1.chunk.js"
+    "revision": "8e8cb03ffa2e1dcccc35",
+    "url": "/micinTa/static/js/main.7375b5bc.chunk.js"
   },
   {
     "revision": "12be8e4642f977b9009d",
