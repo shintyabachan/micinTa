@@ -7,50 +7,35 @@ class Portofolio extends Component {
         return (
             <div>
                 <h2>PORTOFOLIO</h2>
-                <h5>Basically, I don't know what should I write here, so </h5>
+                <h5>Basically, I don't know what should I write here, so for now I just wrote my final project...</h5>
                 <hr/>
                 <br/>
                 <Row gutter={16} justify="center" type="flex">
                     <Col lg={7} md={12}>
                         <MyCard 
-                            alt="Web Design" 
+                            alt="GOCIN" 
                             img="images/portofolio/1.png"
-                            title="Web Design"
-                            description="This is the description"
+                            title="GOCIN"
+                            description="Movie review web, 2019"
                         />
                     </Col>
                     <Col lg={7} md={12}>                        
                         <MyCard 
-                            alt="Web Design" 
+                            alt="KADOKU" 
                             img="images/portofolio/2.png"
-                            title="Web Design"
-                            description="This is the description"                            
+                            title="KADOKU"
+                            description="System Informatio of gift store, 2018"                            
                         />
                     </Col>                    
                     <Col lg={7} md={12}>                        
                         <MyCard 
-                            alt="Web Design" 
+                            alt="PeTa (Petunjuk Wisata)" 
                             img="images/portofolio/3.png"
-                            title="Web Design"
-                            description="This is the description"                            
+                            title="PeTa (PetunukWisata)"
+                            description="System Information of Tour, 2018"                            
                         />
                     </Col>
-                    <Col lg={7} md={12}>                        
-                        <MyCard 
-                            alt="Web Design" 
-                            img="images/portofolio/5.png"
-                            title="Web Design"
-                            description="This is the description"                            
-                        />
-                    </Col>
-                    <Col lg={7} md={12}>                        
-                        <MyCard 
-                            alt="Web Design" 
-                            img="images/portofolio/6.png"
-                            title="Web Design"
-                            description="This is the description"                            
-                        />
-                    </Col>
+                
                 </Row>
             </div>
         );

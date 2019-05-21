@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import { Row,Col,Typography,List } from 'antd';
 import {Menu, Icon} from 'antd';
+import MyCard from "../MyCard";
 
 
 const { Title } = Typography;
@@ -54,6 +55,48 @@ class Profile extends Component {
                         </Row>
                     </Col>
 
+                </Row>
+                <Row gutter={16} justify="center" type="flex">
+                    <Col lg={7} md={12}>
+                        <MyCard 
+                            alt="Gadjah Mada University" 
+                            img="images/portofolio/1.png"
+                            title="Computer Science and Information System"
+                            description="2017-2020"
+                        />
+                    </Col>
+                    <Col lg={7} md={12}>                        
+                        <MyCard 
+                            alt="SMA N 1 Batusangkar" 
+                            img="images/portofolio/2.png"
+                            title="Senior High School"
+                            description="2014-2017"                            
+                        />
+                    </Col>                    
+                    <Col lg={7} md={12}>                        
+                        <MyCard 
+                            alt="SMP N 5 Batusangkar" 
+                            img="images/portofolio/3.png"
+                            title="Junior High School"
+                            description="2011-2014"                            
+                        />
+                    </Col>
+                    <Col lg={7} md={12}>                        
+                        <MyCard 
+                            alt="SD N 2 Pintu Rayo" 
+                            img="images/portofolio/5.png"
+                            title="Elementary School"
+                            description="2005-2011"                            
+                        />
+                    </Col>
+                    <Col lg={7} md={12}>                        
+                        <MyCard 
+                            alt="TK Aisyah" 
+                            img="images/portofolio/6.png"
+                            title="Kindergarten"
+                            description="2003-2005"                            
+                        />
+                    </Col>
                 </Row>
             </div>
         );

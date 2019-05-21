@@ -22,6 +22,7 @@ class Home extends React.Component{
                         <p/><p/>
                         <h4>"I'am a 19th years old girl who is studying as second years student in Computer Science and Information System at Gadjah Mada University.
                             I am a friendly, enthusiastic adn honest person. I’m personally interested in becoming a system analyst"</h4>
+                        <p></p>
                         <Button href="profile">Kenalan?</Button>
                     </Col>
 
