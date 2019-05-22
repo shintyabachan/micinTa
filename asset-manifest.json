@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/micinTa/static/css/main.5a9ff18f.chunk.css",
-    "main.js": "/micinTa/static/js/main.e651b221.chunk.js",
-    "main.js.map": "/micinTa/static/js/main.e651b221.chunk.js.map",
+    "main.js": "/micinTa/static/js/main.51f87ade.chunk.js",
+    "main.js.map": "/micinTa/static/js/main.51f87ade.chunk.js.map",
     "runtime~main.js": "/micinTa/static/js/runtime~main.f9f9cb49.js",
     "runtime~main.js.map": "/micinTa/static/js/runtime~main.f9f9cb49.js.map",
-    "static/css/2.1ad4406c.chunk.css": "/micinTa/static/css/2.1ad4406c.chunk.css",
-    "static/js/2.f643adc7.chunk.js": "/micinTa/static/js/2.f643adc7.chunk.js",
-    "static/js/2.f643adc7.chunk.js.map": "/micinTa/static/js/2.f643adc7.chunk.js.map",
+    "static/css/2.4ccf3cb5.chunk.css": "/micinTa/static/css/2.4ccf3cb5.chunk.css",
+    "static/js/2.15d1bd7f.chunk.js": "/micinTa/static/js/2.15d1bd7f.chunk.js",
+    "static/js/2.15d1bd7f.chunk.js.map": "/micinTa/static/js/2.15d1bd7f.chunk.js.map",
     "index.html": "/micinTa/index.html",
-    "precache-manifest.beb1ce15c4ddba3cd41c72050cb4a4ae.js": "/micinTa/precache-manifest.beb1ce15c4ddba3cd41c72050cb4a4ae.js",
+    "precache-manifest.77fbe0aff452fe5751db30ca4048a054.js": "/micinTa/precache-manifest.77fbe0aff452fe5751db30ca4048a054.js",
     "service-worker.js": "/micinTa/service-worker.js",
-    "static/css/2.1ad4406c.chunk.css.map": "/micinTa/static/css/2.1ad4406c.chunk.css.map",
+    "static/css/2.4ccf3cb5.chunk.css.map": "/micinTa/static/css/2.4ccf3cb5.chunk.css.map",
     "static/css/main.5a9ff18f.chunk.css.map": "/micinTa/static/css/main.5a9ff18f.chunk.css.map"
   }
 }
