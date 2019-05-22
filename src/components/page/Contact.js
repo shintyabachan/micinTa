@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import { Row, Col, Typography, Card, Form, Icon, Input, Button } from 'antd';
 import SimpleMap from '../SimpleMap';
-import TextArea from 'antd/lib/input/TextArea';
 
 class Kontak extends Component {
     render() {
@@ -23,28 +22,9 @@ class Kontak extends Component {
                             <p>Email &nbsp; : icinbachan15@gmail.com</p>
                             <Form onSubmit={this.handleSubmit} className="login-form">
                                 <Form.Item>
-                                    <Input 
-                                        style={{marginBottom: "8px" }}
-                                        prefix={<Icon type="user" style={{ color: 'rgba(0,0,0,.25)'}} />}
-                                        placeholder="Nama"
-                                    />
-                                    <Input 
-                                        style={{marginBottom: "8px" }}
-                                        prefix={<Icon type="lock" style={{ color: 'rgba(0,0,0,.25)'}} />}
-                                        placeholder="Email"
-                                    />
-                                    <Input 
-                                        style={{marginBottom: "8px" }}
-                                        prefix={<Icon type="lock" style={{ color: 'rgba(0,0,0,.25)'}} />}
-                                        placeholder="Website"
-                                    />
-                                    <TextArea 
-                                        style={{marginBottom: "8px" }}
-                                        prefix={<Icon type="lock" style={{ color: 'rgba(0,0,0,.25)'}} />}
-                                        placeholder="Message"
-                                    />
-                                    <Button type="primary" htmlType="submit" className="login-form-button">
-                                        Send
+                                    <p>Get in touch ?</p>
+                                    <Button href="https://wa.me/6285228599018" type="primary" htmlType="submit" className="login-form-button">
+                                        Send Me a Text!
                                     </Button>
                                 </Form.Item>
                             </Form>

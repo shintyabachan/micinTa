@@ -28,7 +28,7 @@ class Home extends React.Component{
 
                     <Col xs={12}>
                         <Row>
-                            <img src="images/sally.png" style={{width:"90%"}}/>
+                            <img src="images/sally.webp" style={{width:"90%"}}/>
                         </Row>
                     </Col>
                 </Row>
