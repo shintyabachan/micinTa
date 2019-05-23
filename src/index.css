@@ -8,12 +8,14 @@
 .logo{
   width: 150px;
   float: left;
+  color: darkblue;
 }
 .logo a{
   display: inline-block;
   font-size: 20px;
   padding: 19px 20px;
   text-transform: capitalize;
+  color: darkblue;
 }
 .menuCon{
   width: calc(100% - 150px);

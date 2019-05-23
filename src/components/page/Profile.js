@@ -31,7 +31,7 @@ class Profile extends Component {
                             <p/>
                             <p/>
                             <p/>
-                            <img src="images/sally.webp" style={{objectFit:"cover",width:"100%"}}/>
+                            <img src="images/sally.webp" style={{objectFit:"cover",width:"100%"}} alt="asd"/>
                         </Row>
                     </Col>
                     <Col xs={12}>
